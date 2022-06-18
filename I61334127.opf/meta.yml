@@ -1,0 +1,37 @@
+id: I61334127
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:37:18.662002'
+last_modified: '2022-06-18T20:37:18.662013'
+parser: null
+source_metadata:
+  title: Hagiography of dPal ldan bla ma Ku ma ra ma ti (1372–1475)
+  author: gser mdog paN chen shAkya mchog ldan/
+  description: 'Digital version 4.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); head entries supplemented and linebreaks encoded, revision in process,
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/360
+  bases:
+    d3a3:
+      title: Hagiography of dPal ldan bla ma Ku ma ra ma ti (1372–1475)
+      order: 1
+      base_file: d3a3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
